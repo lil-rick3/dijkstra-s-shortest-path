@@ -1,0 +1,9 @@
+name: dijkstra
+channels:
+  - msys2
+  - conda-forge
+  - defaults
+dependencies:
+  - m2-base=1.0.0=2
+  - m2w64-toolchain=5.3.0=7
+  - meson
